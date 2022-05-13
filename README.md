@@ -12,7 +12,9 @@ authorities and also triggers a voice alert in three different languages.
 Datasets:
 In our proposed system we are using datasets consisting of image frames. We select appropriate features and thus
 classify whether a person is wearing a mask or not using CNN.
+
 DOWNLOAD THE DATASET FROM :- https://drive.google.com/drive/folders/1gll9281uUNoxiQ-F333B2AKjKUvx-Alq?usp=sharing
+
 Features:
 The features that we have considered to identify whether a person wore a mask or not. Face detection: The face
 will be detected in the frame with help of API’s and opencv algo. Mask detection: The opencv using CNN will
